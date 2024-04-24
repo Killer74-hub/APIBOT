@@ -1,16 +1,41 @@
 # APIBOT
-This is a Basic GUI based of the llama-V2 Uncensored API Chat Bot. 
-The Bot is still dumb, so maybe provide better scripts and help, so that I can Improve it. 
-I am not very good at programing with Python. So I need Help
-
-BOT:
-https://ollama.com/library/llama2-uncensored
-
-Requirements:
-
-tkinter
-messagebox
-requests
 
 
-pip install requests messagebox tkinte
+# Completly Free ✅
+# No extra costs ✅
+# No Virus ✅ (tested on virustotal, the exe will always show up as virus. you can also convert the python script to an exe to see that its not a virus. It is a false positive.)
+
+
+
+# REQUIREMENTS
+
+Ollama: https://ollama.com/download
+
+(after you downloaded Ollama and Python and the Modules,execute the script)
+
+Python with PATH Privileges: https://www.python.org/
+
+# ⬇️ Install Steps: ⬇️
+1. Download the Script/EXE 📥
+2. Install Required Modules:
+   Python Modules:
+     💬 tkinter
+      💬 messagebox
+       🌐 requests
+4. Wait ⏳🙄
+5. Execute the Script 📜
+6. Have Fun! 🤖😃
+
+
+Note:
+The bot runs on a local server hosted by the user Pc.
+
+# 💬 Need Help? 💬
+Discord Username: Sniper74
+
+
+# Feel free to ask for any assistance or enhancements! 😊
+
+
+I would appreciate Donations. If you want, we can discuss them in my Discord.
+# Source: https://ollama.com/library/llama2-uncensored
