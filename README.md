@@ -23,7 +23,8 @@ Python with PATH Privileges: https://www.python.org/
       💬 messagebox
        🌐 requests
 4. Wait ⏳🙄
-5. Execute the Script 📜
+5. Wait for the script to load(python windows will be opened)
+6. Execute the Script 📜
 6. Have Fun! 🤖😃
 
 
