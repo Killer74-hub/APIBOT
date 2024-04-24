@@ -31,6 +31,11 @@ Python with PATH Privileges: https://www.python.org/
 Note:
 The bot runs on a local server hosted by the user Pc.
 
+# There are 3 Files.
+- The Python script
+- APIBOT
+- APIBOT_Hide(Will hide the first window and only open it when the Bot answeres for like 2 seconds. It depends on the length)
+
 # 💬 Need Help? 💬
 Discord Username: Sniper74
 
