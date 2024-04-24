@@ -39,3 +39,6 @@ Discord Username: Sniper74
 
 I would appreciate Donations. If you want, we can discuss them in my Discord.
 # Source: https://ollama.com/library/llama2-uncensored
+
+
+#Icon by: https://www.freepik.com/icon/chatbot_6231457#fromView=keyword&page=1&position=1
